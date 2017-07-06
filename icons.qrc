@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/delete.png</file>
+        <file>images/edit-clear.png</file>
+        <file>images/Edit-Male-User.png</file>
+        <file>images/list-add-user.png</file>
+        <file>images/Search.png</file>
+        <file>images/gtk-save-as.png</file>
+        <file>images/frame.png</file>
+        <file>images/save-as_pk.png</file>
+        <file>images/edit-clear-pk.png</file>
+    </qresource>
+</RCC>
